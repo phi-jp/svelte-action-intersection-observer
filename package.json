@@ -1,0 +1,19 @@
+{
+  "name": "svelte-action-intersection-observer",
+  "version": "0.0.1",
+  "description": "for svelte",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/phi-jp/svelte-action-intersection-observer.git"
+  },
+  "author": "phi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/phi-jp/svelte-action-intersection-observer/issues"
+  },
+  "homepage": "https://github.com/phi-jp/svelte-action-intersection-observer#readme"
+}

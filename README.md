@@ -11,3 +11,6 @@ for svelte
 
 ## Usage
 
+## Links
+
+[npm](https://www.npmjs.com/package/svelte-action-intersection-observer)
